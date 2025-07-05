@@ -1,0 +1,8 @@
+MANUAL:
+
+
+1°               path_python.bat
+
+
+
+2°              streamlit run main.py
